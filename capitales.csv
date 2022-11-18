@@ -1,5 +1,5 @@
 state,city,lat,lng,neighbors
-Aguascalientes,Aguascalientes,21.885731,-102.326319,"Zacatecas, Jalisco, Guanajuato"
+Aguascalientes,Aguascalientes,21.885731,-102.326319,"Zacatecas, Jalisco, Guanajuato, San Luis Potosí"
 Baja California,Mexicali,32.6137391,-115.5203308,"Sonora, Baja California Sur"
 Baja California Sur,La Paz,24.1164209,-110.3727669,Baja California
 Campeche,Campeche,19.8305682,-90.5798364,"Yucatán, Quintana Roo, Tabasco"
@@ -22,7 +22,7 @@ Oaxaca,Oaxaca,17.0812951,-96.770751,"Puebla, Veracruz, Chiapas"
 Puebla,Puebla,19.040034,-98.2630052,"Veracruz, Tlaxcala, Ciudad de México, Morelos, Guerrero, Oaxaca"
 Querétaro,Querétaro,20.6121228,-100.4802572,"San Luis Potosí, Guanajuato, México, Ciudad de México, Michoacán de Ocampo, Hidalgo"
 Quintana Roo,Chetumal,18.5221591,-88.3222882,"Yucatán, Campeche"
-San Luis Potosí,San Luis Potosí,22.1127046,-101.0261095,"Coahuila de Zaragoza, Tamaulipas, Zacatecas, Guanajuato, Querétaro, Jalisco"
+San Luis Potosí,San Luis Potosí,22.1127046,-101.0261095,"Coahuila de Zaragoza, Tamaulipas, Zacatecas, Guanajuato, Querétaro, Jalisco, Aguascalientes"
 Sinaloa,Culiacán,24.8049008,-107.493354,"Sonora, Nayarit, Durango"
 Sonora,Hermosillo,29.082137,-111.0590266,"Baja California, Sinaloa, Chihuahua"
 Tabasco,Villahermosa,17.9925264,-92.9881406,"Campeche, Chiapas, Veracruz"
